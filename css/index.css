@@ -162,3 +162,11 @@ button[disabled=disabled], button:disabled {
 .invisivel {
 	display: none;
 }
+
+rodapé {
+    margem superior :  15 px ;
+    exibição : flexível;
+    flex-direction : coluna;
+    align-items : centro;
+    cor : #feeee _
+}
