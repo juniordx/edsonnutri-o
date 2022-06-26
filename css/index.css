@@ -163,7 +163,7 @@ button[disabled=disabled], button:disabled {
 	display: none;
 }
 
-rodapé {
+footer {
     margem superior :  15 px ;
     exibição : flexível;
     flex-direction : coluna;
